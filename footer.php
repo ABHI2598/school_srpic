@@ -66,9 +66,6 @@
   <script src="js/jquery.mb.YTPlayer.min.js"></script>
   <script src="email-validation.js"></script>
 
-
-
-
   <script src="js/main.js"></script>
 
 </body>
