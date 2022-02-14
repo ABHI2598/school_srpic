@@ -98,7 +98,17 @@
             </nav>
  
           </div>
-      
+         
+          
+          <div class="ml-auto">
+            <div class="social-wrap">
+              <a href="#" class="d-inline-block d-lg-none site-menu-toggle js-menu-toggle text-black active">
+                <span class="icon-menu h3"></span>
+              </a>
+            </div>
+          </div>
+          
+        </div>
      
 
     </header>
