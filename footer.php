@@ -3,49 +3,47 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
-            <p class="mb-4"><img src="images/logo.JPG" alt="Image" class="img-fluid"  style="width: 180px; height: 150px;"></p>
+            <p class="mb-4"><img src="images/logo.jpg" alt="Image" class="img-fluid"  style="width: 180px; height: 150px;"></p>
             <p>‘Learning is synthesizing seemingly divergent ideas and data.’</p>  
-            <p><a href="about.php">Learn More</a></p>
+            <p><a href="about.html">Learn More</a></p>
+          </div>
+          <div class="col-lg-3">
+            <h3 class="footer-heading"><span>Quick links </span></h3>
+            <ul class="list-unstyled">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="admissions.html">Our Lecturers</a></li>
+                <li><a href="about.html">Our Leadership</a></li>
+                
+            </ul>
           </div>
           
-          
-
-           <div class="col-xs-14 col-sm-6 col-md-4 pt-2 pb-3">
-             <h5 style="font-size: 22px;font-weight: 600;padding-bottom:10px" class="footer-heading">Quick links</h5>
-              <li style="font-size:17px;color:black;padding:2px"><a href="index.php">Home</a></li>
-              <li style="font-size:17px;color:black;padding:2px"><a href="about.php">About</a></li>
-              
-              <li style="font-size:17px;color:black;padding:2px"><a href="admissions.php">Our Team</a></li>
-              <li style="font-size:17px;color:black;padding:2px"><a href="contac.php">Contact</a></li>
-            
+          <div class="col-lg-3">
+              <h3 class="footer-heading"><span>Contact</span></h3>
+              <ul class="list-unstyled">
+                  <li><a href="contact.html">Help Center</a></li>
+                  <li><a href="#">Support Community</a></li>
+                  <li><a href="#">Our Supporters</a></li>
+              </ul>
           </div>
-          <div class="col-xs-14 col-sm-6 col-md-4 pb-5 pt-2">
-              <h3 class="footer-heading" class="text-right"  ><span>Contact Us</span></h3>
-               <li style="font-size:17px; " class="text-right"><p>Sri Ram Pratap Inter College, Sirsa,</p> </li>
-               <li style="font-size:17px; margin-right: 27%;" class="text-right"><p> Prayagraj. Pin:212305</p> </li>
-              <li style="font-size: 16px; margin-right: 15%;" class="text-right"><a href="tel://1234567920"> <span class="footer-heading">Phone Number: </span> 9310008513</a></li>
-              <li  style="font-size: 16px;  margin-right: 5%;" class="text-right">
-              <a href="mailto:info@mydomain.com" ><span class="footer-heading text-center">Email us at: </span>srpic2015@gmail.com</a> 
-            </li>
-              
-          </div>
-
-
         </div>
 
-        <div class="row copyright">
-        <div class="col-md-12 text-center">
-          <p>
-            <medium style="display: block;">&copy;  All Rights Reserved.</medium> 
-            <large style="display: block;">Designed by <a href="https://github.com/TechDAM" target="_blank"> Abhinav&Co. </a> </a></large>
-          </p>
+        <div class="row">
+          <div class="col-12">
+            <div class="copyright">
+                <p>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made With <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Abhinav&Co.</a>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </p>
+            </div>
+          </div>
         </div>
       </div>
-      </div>
-
-
     </div>
     
+
+  </div>
 
 
 
