@@ -62,7 +62,7 @@
         <div class="d-flex align-items-center">
           <div class="site-logo">
             <a href="index.html" class="d-block">
-              <img src="images/logo.jpg" alt="Image" class="img-fluid" style="width: 120px; height: 85px;">
+              <img src="images/logo.JPG" alt="Image" class="img-fluid" style="width: 120px; height: 85px;">
             </a>
           </div>
           <div class="mr-auto text-right" style="float: right;">
