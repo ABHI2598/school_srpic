@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
-            <p class="mb-4"><img src="images/logo.jpg" alt="Image" class="img-fluid"  style="width: 180px; height: 150px;"></p>
+            <p class="mb-4"><img src="images/logo.JPG" alt="Image" class="img-fluid"  style="width: 180px; height: 150px;"></p>
             <p>‘Learning is synthesizing seemingly divergent ideas and data.’</p>  
             <p><a href="about.php">Learn More</a></p>
           </div>
