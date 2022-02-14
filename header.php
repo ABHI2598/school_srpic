@@ -52,7 +52,12 @@
             <a href="tel:10 20 123 456" class="small mr-3"><span class="icon-phone2 mr-2"></span> 9310008513</a> 
             <a href="mailto:info@mydomain.com" class="small mr-3"><span class="icon-envelope-o mr-2"></span> srpic2015@gmail.com</a> 
           </div>
-          
+             <div class="col-lg-3 text-right">
+            <a href="login.php" class="small mr-3"><span class="icon-unlock-alt"></span> Log In</a>
+            <a href="register.php" class="small btn btn-primary px-4 py-2 rounded-0"><span class="icon-users"></span> Register</a>
+          </div>
+        </div>
+      </div>
         </div>
       </div>
     </div>
@@ -93,29 +98,7 @@
             </nav>
  
           </div>
-       <!--   <div class="col-lg-3 text-right">
-            <a href="login.php" class="small mr-3"><span class="icon-unlock-alt"></span> Log In</a>
-            <a href="register.php" class="small btn btn-primary px-4 py-2 rounded-0"><span class="icon-users"></span> Register</a>
-          </div>
-        </div>
-      </div> -->
-      <li class="nav-item dropdown">
-          <?php if (isset($_SESSION['login'])) { ?>
-          <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink-333" data-toggle="dropdown"
-            aria-haspopup="true" aria-expanded="false">
-            <i class="fas fa-user mr-2"></i>Account
-          </a>
-          <div class="dropdown-menu dropdown-menu-right dropdown-default"
-            aria-labelledby="navbarDropdownMenuLink-333">
-            <a class="dropdown-item" href="/sms/admin/dashboard.php">Dashboard</a>
-            <a class="dropdown-item" href="#">Another action</a>
-            <a class="dropdown-item" href="logout.php">Logout</a>
-          </div>
-          <?php } else { ?>
-           <a href="login.php" class="small mr-3"><span class="icon-unlock-alt"></span> Log In</a>
-            <a href="register.php" class="small btn btn-primary px-4 py-2 rounded-0"><span class="icon-users"></span> Register</a>
-          <?php } ?>
-        </li>
-      </ul> 
+      
+     
 
     </header>
